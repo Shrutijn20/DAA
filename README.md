@@ -11,6 +11,7 @@ Input: Google Map actual data: Refer google map and find out distance between 7 
 
 OUTPUT:
 Cities     :     Distance
+
 Nagpur to Indore:448 
 
 Indore to Ahemdabad:389
