@@ -8,11 +8,16 @@ Input: Google Map actual data: Refer google map and find out distance between 7 
 
 OUTPUT:
 Cities     :     Distance
-Nagpur to Indore:448
+Nagpur to Indore:448 
+
 Indore to Ahemdabad:389
+
 Ahemdabad to Mumbai:533
+
 Mumbai to Pune:163
+
 Pune to Banglore:839
+
 Banglore to Chennai:349
 
 Observations on Output:
