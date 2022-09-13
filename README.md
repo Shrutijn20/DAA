@@ -28,3 +28,18 @@ Observations on Output:
 1.	Total distance travelled from Nagpur to Chennai is 2720kms.
 2.	Shortest distance is between Mumbai and Pune.
 3.	Largest distance is between Pune and Banglore.
+
+Another test cases 1:
+Nagpur to Nashik:352
+Nashik to Thane:78
+Thane to Mumbai:10
+Thane to Pune:74
+Pune to Ratnagiri:89
+
+2:
+Nagpur to Goa:519
+Nagpur to Delhi:529
+Delhi to Chandigarh:146
+Chandigarh to Shimla:35
+Shimla to Manali:80
+
